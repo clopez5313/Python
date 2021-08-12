@@ -1,0 +1,16 @@
+import re
+
+def remove_punctuation(words):
+    '''Helper function to return a string, removing all punctuations and spaces'''
+    return re.sub('\W+', '', words)
+
+def is_palindrome(words):
+    '''Palindromes are case insensitive, so both radar and Radar are valid'''
+    cleanString = remove_punctuation(words)
+    cleanString = cleanString.lower()
+    print(cleanString)
+
+    if cleanString == cleanString[::-1]:
+        return True
+
+    return False
