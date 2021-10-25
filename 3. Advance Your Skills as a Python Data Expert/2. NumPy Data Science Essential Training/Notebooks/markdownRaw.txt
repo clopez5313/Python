@@ -1,0 +1,55 @@
+# To add a new cell, type '# %%'
+# To add a new markdown cell, type '# %% [markdown]'
+# %% [markdown]
+# # Markdown: light-weight markup language
+# - [Daring Fireball](https://daringfireball.net/projects/markdown/)
+# - [Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+# - [Github Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+#     - pdf version [Github Mastering Markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+# %% [markdown]
+# ### Headers:
+# This is an <h1> tag
+## This is an <h2> tag
+###### This is an <h6> tag# %% [markdown]
+# ### Unordered List:
+- File
+    - Rename
+    - Save and checkpoint; 'CTRL' + s
+    - Print Preview
+    - New Notebook
+- Cell
+    - Run All
+- Help
+    - Python
+    - NumPy
+    - SciPy# %% [markdown]
+# ### Order List:
+1. Alpha
+2. Bravo
+    1. Red
+        1. Apple
+        2. Crayon
+    2. Green
+    3. Blue
+3. Charlie
+4. Delta
+5. Echo# %% [markdown]
+# ### Block Quotes:
+Benjamin Franklin said:
+> Early to bed and early to rise, makes a man healthy, wealthy, and wise.    # %% [markdown]
+# ### Links:
+- [Daring Fireball](https://daringfireball.net/projects/markdown/)
+
+- [Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+- [Github Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+
+    - pdf version [Github Mastering Markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)# %% [markdown]
+# ### Emphasis:
+*This text will be italic*
+_This will also be italic_
+**This text will be bold**
+__This will also be bold__
+*You **can** combine them*
+
+# %%

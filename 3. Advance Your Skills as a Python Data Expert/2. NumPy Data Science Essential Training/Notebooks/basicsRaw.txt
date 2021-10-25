@@ -1,0 +1,64 @@
+# To add a new cell, type '# %%'
+# To add a new markdown cell, type '# %% [markdown]'
+# %% [markdown]
+# # Notebook Basics
+# More basic information available at:  [Basics](http://jupyter-notebook.readthedocs.io/en/latest/examples/Notebook/Notebook%20Basics.html)
+# %% [markdown]
+# # Dashboard
+# - "Home Page" for notebook
+#     - listing of available notebook
+#     - starting point to create new notebooks
+# - Location for controlling notebooks
+#     - check box selection
+#         - stop running notebooks
+#             - see "Running" tab
+#         - delete notebooks
+# - Refresh
+#     - if notebooks are added "externally"
+# %% [markdown]
+# # Notebook User Interface
+# - Menu Bar
+# - Tool Bar
+# - Notebook area that contains cells
+# %% [markdown]
+# # Modal Editor
+# - Command Mode
+#     - Blue cell border
+#     - Enter command mode via 'ESC' key
+# - Edit Mode
+#     - Green cell border
+#     - cell acts like a text editor
+#     - Enter edit mode via 'ENTER' key
+# - Execute a cell
+#     - 'SHIFT ENTER' key combination
+# %% [markdown]
+# # Keyboard Navigation
+# - command palette tool icon
+#     - has search capability
+# ### Common Navigation
+# - Save notebook: 'CTRL' + s
+# - Create cell above current cell: 'ESC' + a
+# - Create cell below current cell: 'ESC' + b
+# - Delete current cell: 'ESC' + d + d
+# - Cell editing
+#     - copy: 'CTRL' + c
+#     - cut: 'CTRL' + x
+#     - paste: 'CTRL' + v
+#     - undo: 'CTRL' + z
+# %% [markdown]
+# # Menu Bar
+# - File
+#     - Rename
+#     - Save and checkpoint; 'CTRL' + s
+#     - Print Preview
+#     - New Notebook
+# - Cell
+#     - Run All
+# - Help
+#     - Python
+#     - NumPy
+#     - SciPy
+#
+#
+
+# %%
